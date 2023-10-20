@@ -1,0 +1,12 @@
+
+path: /kaggle/input/dataset/Dataset # Dataset root dir
+train: images # train images (relative to 'path)
+val: images # val images (relative to 'path)
+
+# Classes
+names:
+  0: Jas
+  1: shek
+  2: bot
+  3: Sanji
+  4: Jawan
