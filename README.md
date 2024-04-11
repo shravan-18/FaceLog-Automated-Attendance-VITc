@@ -11,7 +11,6 @@ The Hostel Attendance Management System is a web-based application designed to a
 - Automated attendance tracking using facial recognition technology
 - Integration with existing hostel management systems
 - Real-time monitoring and analysis of attendance data
-- User-friendly interface for administrators and hostel residents
 
 ## Technologies Stack
 
