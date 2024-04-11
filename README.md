@@ -1,6 +1,6 @@
 # Hostel Attendance Management System
 
-<div style="text-align:center">
+<div style="align:center">
 ![Hostel Attendance Management System](https://github.com/shravan-18/Automated-Attendance-FaceRecognition/blob/main/img-Readme.jpeg)
 </div>
 
